@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/treymarak/Liri-Node-App/issues"
   },
-  "homepage": "https://github.com/treymarak/Liri-Node-App#readme"
+  "homepage": "https://github.com/treymarak/Liri-Node-App#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0"
+  }
 }

@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/treymarak/Liri-Node-App#readme",
   "dependencies": {
-    "dotenv": "^6.0.0"
+    "dotenv": "^6.0.0",
+    "fs": "0.0.1-security",
+    "geocoder": "^0.2.3",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.87.0",
+    "weather-js": "^2.0.0"
   }
 }
